@@ -1,1 +1,2 @@
-Programming with C
+This is a program written in C 
+Author: Dairo Olushola Stephen
